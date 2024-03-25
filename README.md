@@ -1,6 +1,6 @@
 # Neurons Lab Intro to LLM Agents workshop
 
-youtube Reference: [https://www.youtube.com/watch?v=uVkS05qPhik&t=6s&ab_channel=NeuronsLab
+youtube Reference: https://www.youtube.com/watch?v=uVkS05qPhik&t=6s&ab_channel=NeuronsLab
 
 This is a workshop to introduce the concept of LLM agents and how to build them using the Langchain platform.
 Hosted by [Neurons Lab](https://neurons-lab.com/) and led by me, [Alex Honchar](https://www.alexhonchar.com/).
